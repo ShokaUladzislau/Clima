@@ -25,8 +25,8 @@ A simple and elegant weather application built using Flutter, powered by the Ope
   <img src="https://github.com/ShokaUladzislau/Clima/blob/main/demo/1.PNG" width="250"/>
   <img src="https://github.com/ShokaUladzislau/Clima/blob/main/demo/2.PNG" width="250"/>
   <img src="https://github.com/ShokaUladzislau/Clima/blob/main/demo/3.PNG" width="250"/>
+  <img src="https://github.com/ShokaUladzislau/Clima/blob/main/demo/4.gif" width="250"/>
 </p>
-<img src="https://github.com/ShokaUladzislau/Clima/blob/main/demo/4.gif" width="250"/>
 
 ## Installation
 
